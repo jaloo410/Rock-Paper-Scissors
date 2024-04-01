@@ -24,20 +24,6 @@ This is a simple command-line implementation of the classic game "Rock Paper Sci
 
 - Python 3.x
 
-## How to Run
-
-1. Clone the repository or download the Python script.
-2. Open a terminal or command prompt and navigate to the directory where the script is located.
-3. Run the following command:
-
-   ```
-   python rock_paper_scissors.py
-   ```
-
-   Replace `rock_paper_scissors.py` with the actual filename if necessary.
-
-4. Follow the on-screen instructions to play the game.
-
 ## Code Overview
 
 The code uses the following Python concepts and modules:
